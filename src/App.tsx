@@ -17,7 +17,7 @@ function App() {
         </a>
       </div>
 
-      <h1>🚀 SD React App – CI/CD Test Successful</h1>
+      <h1> SD React App – CI/CD Test Successful</h1>
       <p>Deployed via GitHub Actions + GHCR</p>
 
       <div className="card">
